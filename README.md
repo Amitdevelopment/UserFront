@@ -1,3 +1,12 @@
+# Just start user Front app at localhost:8080 
+
+Save a user with ROLE_ADMIN in role tabel for admin portal
+
+
+
+
+
+
 # FirstAngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
